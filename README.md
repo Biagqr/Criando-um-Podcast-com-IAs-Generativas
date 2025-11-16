@@ -105,3 +105,4 @@ circuitos e ambiente educacional futurista.
 Cores suaves e profissionais: azul, roxo ou verde neon.  
 Inserir o texto: "Como a IA Está Mudando Tudo".
 ![alt text](image-1.png)
+
