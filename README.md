@@ -5,7 +5,7 @@ Título do episódio: "Como a IA Está Mudando Tudo".
 O roteiro deve incluir abertura, apresentação do tema, explicação sobre personalização do aprendizado, 
 tutores virtuais, impacto para professores, acessibilidade, gamificação e conclusão inspiradora.
 Tom: educativo, leve, claro e envolvente.
-Duração aproximada: 5 a 7 minutos.
+
 Use o seguinte roteiro para gerar um áudio com voz natural, clara e profissional.
 O estilo deve ser calmo, explicativo e acolhedor.
 Remova ruídos, pausas excessivas e mantenha entonação docente.
